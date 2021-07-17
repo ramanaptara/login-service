@@ -1,0 +1,3 @@
+http://localhost:8081/uaa/webjars/angular-swagger-ui/0.2.3/dist/index.html
+
+http://localhost:8081/uaa/v2/api-docs

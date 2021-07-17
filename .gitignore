@@ -1,0 +1,16 @@
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+userapi.log
+.mvn/timing.properties
+
+.project
+
+.settings/org.springframework.ide.eclipse.prefs
+
+.sts4-cache/classpath-data.json
